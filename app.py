@@ -1,3 +1,7 @@
+'''
+@copyright: Copyright (C) Aidan McCaffrey - All Rights Reserved
+'''
+
 import random
 from datetime import datetime
 from zoneinfo import ZoneInfo
